@@ -1,4 +1,4 @@
-[![](https://img.shields.io/github/license/rattzv/all-sms-services)]
+[![](https://img.shields.io/github/license/rattzv/all-sms-services)](https://license)
 [![](https://img.shields.io/badge/service-sms--activate-red.svg)](https://ssms-activate.ru/?ref=131777)
 <p align="center">
   <img src="https://sun1-86.userapi.com/UR7honv-VPfHipG5NBALuYUNOFiA8dtaLXv3mA/ajGvDqa6SeY.jpg">
