@@ -8,7 +8,7 @@
 
 # Documentation
 <details>
-  <summary><h2>SMS-Activate.ru</h2><summary>
+  <summary>sms-activate.ru<summary>
   
   ```javascript
     function whatIsLove() {
@@ -23,7 +23,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © `<year>` `<copyright holders>`
+Copyright © `2020` `Rattz Vadim`
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
