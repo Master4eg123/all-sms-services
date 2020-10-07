@@ -1,9 +1,12 @@
+[![](https://img.shields.io/badge/service-sms--activate-red.svg)](https://sms-activate.ru/?ref=131777)
+[![](https://img.shields.io/badge/service-sms--activate-red.svg)](https://ssms-activate.ru/?ref=131777)
 <p align="center">
   <img src="https://sun1-86.userapi.com/UR7honv-VPfHipG5NBALuYUNOFiA8dtaLXv3mA/ajGvDqa6SeY.jpg">
 </p>  
 Есть много вариантов Lorem Ipsum, но большинство из них имеет не всегда приемлемые модификации, например, юмористические вставки или слова, которые даже отдалённо не напоминают латынь.  
 
 ***
+
 
 # Introduction
 # 1. Installation
@@ -13,19 +16,13 @@
 
 <details open>
 <summary><strong>3.1 - SMS-ACTIVATE.RU</strong></summary>
-Home page of sms-service - [sms-activate.ru](https://sms-activate.ru/ "sms-activate.ru"). 
+  <p>Home page of sms-service - <a href="https://sms-activate.ru/?ref=131777" title="sms-activate.ru">sms-activate.ru</a></p>
   <details open>
   <summary><strong>Methods</strong></summary>
     <pre><code>
     SMSActivate.GetBalance();
     </code></pre>
   </details>
-</details>
-
-<details>
-<summary><strong>3.2 - 5-SIM.RU</strong></summary>
-
-Home page of sms-service - [5sim.net](https://5sim.net/ "5sim.net"). 
 </details>
 
 # Reporting Bugs
