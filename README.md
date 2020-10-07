@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://sun1-26.userapi.com/pJQlaMB6tR47pR1Jj7YvrQZJ1gZZsc8DIldi-Q/dACx9jgGJLQ.jpg">
+  <img src="https://sun1-86.userapi.com/UR7honv-VPfHipG5NBALuYUNOFiA8dtaLXv3mA/ajGvDqa6SeY.jpg" style="border-radius:50%;">
 </p>  
 Есть много вариантов Lorem Ipsum, но большинство из них имеет не всегда приемлемые модификации, например, юмористические вставки или слова, которые даже отдалённо не напоминают латынь.
 
 # Installation
 # Getting started
 
-# Sms-services
+# Documentation
 <details>
   <h2>Click to expand!</h2>
   
