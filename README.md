@@ -8,7 +8,7 @@
 
 # Documentation
 <details>
-  <h2>Click to expand!</h2>
+  <summary><h2>SMS-Activate.ru</h2><summary>
   
   ```javascript
     function whatIsLove() {
