@@ -2,8 +2,10 @@
   <img src="https://sun1-86.userapi.com/UR7honv-VPfHipG5NBALuYUNOFiA8dtaLXv3mA/ajGvDqa6SeY.jpg" style="border-radius:50%;">
 </p>  
 Есть много вариантов Lorem Ipsum, но большинство из них имеет не всегда приемлемые модификации, например, юмористические вставки или слова, которые даже отдалённо не напоминают латынь.
+# Introduction
 
 # 1. Installation
+
 # 2. Getting started
 
 # 3. Documentation
@@ -17,9 +19,10 @@ Cheers!
 </details>
 
 # Donate
+
 # Reporting Bugs
-The MIT License (MIT)
-=====================
+
+# The MIT License (MIT)
 
 Copyright © `2020` `Rattz Vadim`
 
