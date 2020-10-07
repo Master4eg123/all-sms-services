@@ -3,24 +3,17 @@
 </p>  
 Есть много вариантов Lorem Ipsum, но большинство из них имеет не всегда приемлемые модификации, например, юмористические вставки или слова, которые даже отдалённо не напоминают латынь.
 
-# Installation
-# Getting started
+# 1. Installation
+# 2. Getting started
 
-# Documentation
-
+# 3. Documentation
 <details>
-<h1><summary>Heading1</summary></h1>
+<summary><strong>SMS-ACTIVATE.RU</strong></summary>
+This text is used as a placeholder or a tk note. Words that will follow won't make any sense and this is fine. At the moment, the goal is to build a structure for our site.
 
-some text
-+ <details>
-    <summary>Heading1.1</summary>
+Cheers!
+[Pascal](https://twitter.com/askpascalandy/)
 
-    some more text
-    + <details>
-        <summary>Heading1.1.1</summary>
-        even more text
-      </details>
-   </details>
 </details>
 
 # Donate
