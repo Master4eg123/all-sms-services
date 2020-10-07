@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://sun1-86.userapi.com/UR7honv-VPfHipG5NBALuYUNOFiA8dtaLXv3mA/ajGvDqa6SeY.jpg" style="border-radius:50%;">
+  <img src="https://sun1-86.userapi.com/UR7honv-VPfHipG5NBALuYUNOFiA8dtaLXv3mA/ajGvDqa6SeY.jpg">
 </p>  
 Есть много вариантов Lorem Ipsum, но большинство из них имеет не всегда приемлемые модификации, например, юмористические вставки или слова, которые даже отдалённо не напоминают латынь.  
 
 # Introduction
 
-# 1. Installation
+# Installation
 
-# 2. Getting started
+# Getting started
 
-# 3. Documentation
-<details>
-<summary><strong>SMS-ACTIVATE.RU</strong></summary>
+# Documentation
+<details open>
+<summary> <h3 style="margin: 0; display: inline-block;">SMS-ACTIVATE.RU</h3></summary>
 This text is used as a placeholder or a tk note. Words that will follow won't make any sense and this is fine. At the moment, the goal is to build a structure for our site.
 
 Cheers!
