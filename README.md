@@ -11,7 +11,6 @@
 # Introduction
 # 1. Installation
 # 2. Getting started
-# 3. Donate
 # 3. Documentation
 
 <details open>
@@ -20,12 +19,12 @@
   <details open>
   <summary><strong>Methods</strong></summary>
     <pre><code>
-    SMSActivate.GetBalance();
+    SMSActivate balance = SMSActivate.GetBalance();
     </code></pre>
   </details>
 </details>
-
-# Reporting Bugs
+# 4. Donate
+# 5. Reporting Bugs
 
 ***
 
