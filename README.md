@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://sun1-23.userapi.com/6LyLhV3epX8-0NHegQ8vhAHl-pYU2fCFRByXAA/PbXBy1LP8S4.jpg">
+  <img src="https://sun1-26.userapi.com/pJQlaMB6tR47pR1Jj7YvrQZJ1gZZsc8DIldi-Q/dACx9jgGJLQ.jpg">
 </p>  
 Есть много вариантов Lorem Ipsum, но большинство из них имеет не всегда приемлемые модификации, например, юмористические вставки или слова, которые даже отдалённо не напоминают латынь.
 
