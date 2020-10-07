@@ -6,11 +6,9 @@
 ***
 
 # Introduction
-
 # 1. Installation
-
-# 2.Getting started
-
+# 2. Getting started
+# 3. Donate
 # 3. Documentation
 <details open>
 <summary><strong>3.1 - SMS-ACTIVATE.RU</strong></summary>
@@ -23,8 +21,6 @@ Home page of sms-service - [sms-activate.ru](https://sms-activate.ru/ "sms-activ
 
 Home page of sms-service - [5sim.net](https://5sim.net/ "5sim.net"). 
 </details>
-
-# Donate
 
 # Reporting Bugs
 
