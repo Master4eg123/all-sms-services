@@ -18,13 +18,17 @@
   <p>Home page of sms-service - <a href="https://sms-activate.ru/?ref=131777" title="sms-activate.ru">sms-activate.ru</a></p>
   <details open>
   <summary><strong>Methods</strong></summary>
-    <pre><code>
-    SMSActivate balance = SMSActivate.GetBalance();
-    </code></pre>
+    
+    ```javascript
+	var s = "JavaScript syntax highlighting";
+	alert(s);
+	```
+    
   </details>
 </details>
 # 4. Donate
 # 5. Reporting Bugs
+
 
 ***
 
