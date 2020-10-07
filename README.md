@@ -1,2 +1,4 @@
+![альт](https://sun1-89.userapi.com/16zjk-BJSpqHNvmc4tEYg-RsD-bvRJThUa6KGA/UuXWIPRu3w4.jpg "описание при наведении")  
+Есть много вариантов Lorem Ipsum, но большинство из них имеет не всегда приемлемые модификации, например, юмористические вставки или слова, которые даже отдалённо не напоминают латынь.
+
 # Getting started
-![альт](https://sun1-89.userapi.com/16zjk-BJSpqHNvmc4tEYg-RsD-bvRJThUa6KGA/UuXWIPRu3w4.jpg = 250x "описание при наведении")
