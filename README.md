@@ -5,7 +5,6 @@
 # Getting started
 # Donate
 # Reporting Bugs
-# License Information
 The MIT License (MIT)
 =====================
 
