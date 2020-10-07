@@ -5,6 +5,17 @@
 
 # Installation
 # Getting started
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 # Donate
 # Reporting Bugs
 The MIT License (MIT)
