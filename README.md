@@ -3,6 +3,8 @@
 </p>  
 Есть много вариантов Lorem Ipsum, но большинство из них имеет не всегда приемлемые модификации, например, юмористические вставки или слова, которые даже отдалённо не напоминают латынь.  
 
+***
+
 # Introduction
 
 # Installation
@@ -11,17 +13,16 @@
 
 # Documentation
 <details open>
-<summary> <h3 style="margin: 0; display: inline-block;">SMS-ACTIVATE.RU</h3></summary>
-This text is used as a placeholder or a tk note. Words that will follow won't make any sense and this is fine. At the moment, the goal is to build a structure for our site.
+<summary><strong>SMS-ACTIVATE.RU</strong></summary>
 
-Cheers!
-[Pascal](https://twitter.com/askpascalandy/)
-
+Home page of sms-service - [sms-activate.ru](https://sms-activate.ru/ "sms-activate.ru"). 
 </details>
 
 # Donate
 
 # Reporting Bugs
+
+***
 
 # The MIT License (MIT)
 
@@ -47,4 +48,3 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
