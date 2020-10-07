@@ -10,16 +10,15 @@
 # 2. Getting started
 # 3. Donate
 # 3. Documentation
-```csharp
-SMSActivate balance = SMSActivate.GetBalance();
-alert(s);
-```
 
 <details open>
 <summary><strong>3.1 - SMS-ACTIVATE.RU</strong></summary>
 Home page of sms-service - [sms-activate.ru](https://sms-activate.ru/ "sms-activate.ru"). 
   <details open>
   <summary><strong>Methods</strong></summary>
+    <pre><code>
+    SMSActivate.GetBalance();
+    </code></pre>
   </details>
 </details>
 
