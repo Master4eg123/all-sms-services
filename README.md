@@ -7,15 +7,20 @@
 # Getting started
 
 # Documentation
+
 <details>
-  <summary>sms-activate.ru<summary>
-  
-  ```javascript
-    function whatIsLove() {
-      console.log('Baby Don't hurt me. Don't hurt me');
-      return 'No more';
-    }
-  ```
+<h1><summary>Heading1</summary></h1>
+
+some text
++ <details>
+    <summary>Heading1.1</summary>
+
+    some more text
+    + <details>
+        <summary>Heading1.1.1</summary>
+        even more text
+      </details>
+   </details>
 </details>
 
 # Donate
