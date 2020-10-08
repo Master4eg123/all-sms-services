@@ -30,8 +30,13 @@ You'll need to clone MailKit from my GitHub repository. To do this using the com
 git clone --recursive https://github.com/jstedfast/MailKit.git
 ```
 # Getting started
-# Documentation
+In the chapter [Documentation](#Documentation) you will find a description of all services and their methods. This example uses the `sms-activate.ru` service:
+### Client initialization:
 
+```csharp
+SMSActivate client = SMSActivate.InitializeClient("api-key");
+```
+# Documentation
 # Donate
 # Reporting Bugs
 # Contacts
