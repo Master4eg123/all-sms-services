@@ -17,7 +17,7 @@
 * [License](#The-MIT-License-(MIT))
 
 # Introduction
-This library provides a pure C# interface for working with the API of popular virtual number services.  
+This library provides a pure C# interface for working with the [API](https://en.wikipedia.org/wiki/API) of popular virtual number services.  
 In addition to the pure API implementation, this library features a number of high-level classes to make the development easy and straightforward.
 
 # Installation
