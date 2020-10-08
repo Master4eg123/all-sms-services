@@ -59,8 +59,11 @@ Homepage service - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
     string balance = client.GetBalance();
     ```
 - **Available countries and services**
-  - Сountries
-  - Services
+  All available countries and services/products are listed in enum.  
+  You just need to select the desired country and service from the list and pass it to the method, like this:
+  ```
+  vat t = client.GetNumberStatus(Countries.Russia, Services.Telegram)
+  ```
 - **Exceptions**
   - NoBalanceErrorException
 
