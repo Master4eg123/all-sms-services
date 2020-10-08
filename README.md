@@ -41,7 +41,8 @@ In the chapter [Documentation](#Documentation) you will find a description of al
 ```csharp
 SMSActivate client = SMSActivate.InitializeClient("api-key");
 ```
-`api-key` - required input parameter.  
+>`api-key` - required input parameter.  
+
 Further work with the library takes place through the `client`.
 ### Balance check:
 ```csharp
