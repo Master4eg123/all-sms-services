@@ -38,19 +38,23 @@ SMSActivate client = SMSActivate.InitializeClient("api-key");
 ```
 Further work with the library takes place through the `client`.
 ### Balance check:
-
 ```csharp
 string balance = client.GetBalance();
 ```
 # Documentation
 
 <details open>
-  <summary><strong>sms-activate-ru</strong></summary>
-  
-#### Methods
-#### Available service
-#### Available countries
-#### Exceptions
+  <summary><strong>sms-activate.ru</strong></summary>
+
+- <details open><summary>Methods</summary>
+  <h4>Method - GetBalance</h4>
+   ```csharp
+   string balance = client.GetBalance();
+   ```
+  </details>
+
+</details>
+
 </details>
 
 ### 5sim.net
