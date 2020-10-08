@@ -36,6 +36,12 @@ In the chapter [Documentation](#Documentation) you will find a description of al
 ```csharp
 SMSActivate client = SMSActivate.InitializeClient("api-key");
 ```
+Further work with the library takes place through the `client`.
+### Balance check:
+
+```csharp
+string balance = client.GetBalance();
+```
 # Documentation
 # Donate
 # Reporting Bugs
