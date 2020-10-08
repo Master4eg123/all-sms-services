@@ -36,6 +36,7 @@ In the chapter [Documentation](#Documentation) you will find a description of al
 ```csharp
 SMSActivate client = SMSActivate.InitializeClient("api-key");
 ```
+`api-key` - required input parameter.  
 Further work with the library takes place through the `client`.
 ### Balance check:
 ```csharp
@@ -43,14 +44,16 @@ string balance = client.GetBalance();
 ```
 # Documentation
 
-### SMS-ACTIVATE.RU
-- Methods  
-  GetBalance()
+#### SMS-ACTIVATE.RU
+Homepage - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
+- **Methods**  
+  Available balance request - **GetBalance()**
   ```csharp
+  SMSActivate client = SMSActivate.InitializeClient("api-key");
   string balance = client.GetBalance();
   ```
 
-### 5sim.net
+#### 5SIM.NET
 # Donate
 # Reporting Bugs
 # Contacts
