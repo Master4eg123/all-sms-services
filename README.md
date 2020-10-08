@@ -53,11 +53,11 @@ string balance = client.GetBalance();
 #### SMS-ACTIVATE.RU
 Homepage service - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
 - **Methods**  
-  Available balance request - **GetBalance()**
-  ```csharp
-  SMSActivate client = SMSActivate.InitializeClient("api-key");
-  string balance = client.GetBalance();
-  ```
+  >Available balance request - **GetBalance()**
+    ```csharp
+    SMSActivate client = SMSActivate.InitializeClient("api-key");
+    string balance = client.GetBalance();
+    ```
 
 #### 5SIM.NET
 # Donate
