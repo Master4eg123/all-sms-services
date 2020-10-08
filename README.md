@@ -74,15 +74,16 @@ Homepage service - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
   int numbersCount = client.GetNumberStatus("0", "tg");
   ```
 - **Exceptions**
-  - BadKeyErrorException
-    The exception that is thrown when the key is entered incorrectly.
+  - BadKeyErrorException  
+    The exception that is thrown when the API-Key is entered incorrectly.
     ```csharp
     try
     {
+      SMSActivateCore client = SMSActivate.InitializeClient("invalidAPIKey");
     }
     catch(BadKeyErrorException)
     {
-    Console.Writeline("Invalid API-Key");
+      Console.Writeline("Invalid API-Key");
     }
     ```
 
