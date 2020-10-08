@@ -9,6 +9,8 @@
 * [Installation](#Installation)
 * [Getting started](#Getting-started)
 * [Documentation](#Documentation)
+    * [sms-activate.ru](#sms-activate.ru)
+    * [5sim.net](#5sim.net)
 * [Donate](#Donate)
 * [Reporting Bugs](#Reporting-Bugs)
 * [Contacts](#Contacts)
