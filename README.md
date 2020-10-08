@@ -67,7 +67,8 @@ Homepage service - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
   vat t = client.GetNumberStatus(countryName, Services.Telegram)
   ```
   > `countryName` - required input parameter.
-  > `serviceName` - required input parameter.
+    `serviceName` - required input parameter.
+  
   However, this is not the only use case. You can also pass string parameters to the method, in accordance with the accepted on the site:
   ```csharp
   vat t = client.GetNumberStatus("0", "tg")
