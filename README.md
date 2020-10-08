@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/service-sms--activate-red.svg)](https://sms-activate.ru/?ref=131777)
 <p align="center">
   <img src="https://sun1-86.userapi.com/UR7honv-VPfHipG5NBALuYUNOFiA8dtaLXv3mA/ajGvDqa6SeY.jpg">
-</p>  
+</p>
 
 # Table of contents
 * [Introduction](#Introduction)
@@ -18,6 +18,17 @@
 
 # Introduction
 # Installation
+The easiest way to install **sms-services-lib** is via `NuGet`.
+In Visual Studio's [Package Manager Console](http://docs.nuget.org/docs/start-here/using-the-package-manager-console), enter the following command:
+```
+Install-Package sms-services-lib
+```
+Or you can install from source with:
+```
+$ git clone https://github.com/python-telegram-bot/python-telegram-bot --recursive
+$ cd python-telegram-bot
+$ python setup.py install
+```
 # Getting started
 # Documentation
 
