@@ -9,12 +9,12 @@
 * [Installation](#Installation)
 * [Getting started](#Getting-started)
 * [Documentation](#Documentation)
-    * [sms-activate.ru](#sms-activate.ru)
-    * [5sim.net](#5sim.net)
+    * [SMS-ACTIVATE.RU](#SMS-ACTIVATE.RU)
+    * [5SIM.NET](#5SIM.NET)
 * [Donate](#Donate)
 * [Reporting Bugs](#Reporting-Bugs)
 * [Contacts](#Contacts)
-* [License](#The-MIT-License-(MIT))
+* [License](#The-MIT-License)
 
 # Introduction
 This library provides a pure C# interface for working with the [API](https://en.wikipedia.org/wiki/API) of popular virtual number services.  
@@ -63,7 +63,7 @@ Homepage service - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
 # Donate
 # Reporting Bugs
 # Contacts
-# The MIT License (MIT)
+# The MIT License
 
 Copyright © `2020` `Rattz Vadim`
 
