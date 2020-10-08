@@ -74,7 +74,17 @@ Homepage service - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
   int numbersCount = client.GetNumberStatus("0", "tg");
   ```
 - **Exceptions**
-  - NoBalanceErrorException
+  - BadKeyErrorException
+    The exception that is thrown when the key is entered incorrectly.
+    ```csharp
+    try
+    {
+    }
+    catch(BadKeyErrorException)
+    {
+    Console.Writeline("Invalid API-Key");
+    }
+    ```
 
 #### 5SIM.NET
 # Donate
