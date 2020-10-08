@@ -22,16 +22,16 @@ In addition to the pure API implementation, this library features a number of hi
 
 # Installation
 ### Installing via NuGet
-The easiest way to install **sms-services-lib** is via `NuGet`.
+The easiest way to install **sms-services-kit** is via `NuGet`.
 In Visual Studio's [Package Manager Console](http://docs.nuget.org/docs/start-here/using-the-package-manager-console), enter the following command:
 ```
 Install-Package sms-services-lib
 ```
 
 ### Getting the Source Code
-You'll need to clone MailKit from my GitHub repository. To do this using the command-line version of Git, you'll need to issue the following command in your terminal:
+You'll need to clone **sms-service-kit** from my GitHub repository. To do this using the command-line version of Git, you'll need to issue the following command in your terminal:
 ```
-git clone --recursive https://github.com/jstedfast/MailKit.git
+git clone --recursive https://github.com/rattzv/sms-service-kit.git
 ```
 
 # Getting started
