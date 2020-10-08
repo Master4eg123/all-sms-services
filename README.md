@@ -50,7 +50,7 @@ string balance = client.GetBalance();
 ```
 # Documentation
 
-#### SMS-ACTIVATE.RU
+### SMS-ACTIVATE.RU
 Homepage service - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
 - **Methods**  
   - Available balance request - **GetBalance()**
@@ -87,7 +87,7 @@ Homepage service - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
     }
     ```
 
-#### 5SIM.NET
+### 5SIM.NET
 # Donate
 # Reporting Bugs
 # Contacts
