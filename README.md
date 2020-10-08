@@ -17,6 +17,9 @@
 * [License](#The-MIT-License-(MIT))
 
 # Introduction
+This library provides a pure C# interface for working with the API of popular virtual number services.  
+In addition to the pure API implementation, this library features a number of high-level classes to make the development easy and straightforward.
+
 # Installation
 ### Installing via NuGet
 The easiest way to install **sms-services-lib** is via `NuGet`.
@@ -24,11 +27,13 @@ In Visual Studio's [Package Manager Console](http://docs.nuget.org/docs/start-he
 ```
 Install-Package sms-services-lib
 ```
+
 ### Getting the Source Code
 You'll need to clone MailKit from my GitHub repository. To do this using the command-line version of Git, you'll need to issue the following command in your terminal:
 ```
 git clone --recursive https://github.com/jstedfast/MailKit.git
 ```
+
 # Getting started
 In the chapter [Documentation](#Documentation) you will find a description of all services and their methods. This example uses the `sms-activate.ru` service:
 ### Client initialization:
@@ -45,7 +50,7 @@ string balance = client.GetBalance();
 # Documentation
 
 #### SMS-ACTIVATE.RU
-Homepage - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
+Homepage service - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
 - **Methods**  
   Available balance request - **GetBalance()**
   ```csharp
