@@ -43,19 +43,13 @@ string balance = client.GetBalance();
 ```
 # Documentation
 
-<details open>
-  <summary><strong>sms-activate.ru</strong></summary>
+### SMS-ACTIVATE.RU
 
-- <details open><summary>Methods</summary>
-  <h4>Method - GetBalance</h4>
-   ```csharp
-   string balance = client.GetBalance();
-   ```
-  </details>
-
-</details>
-
-</details>
+#### Methods
+##### GetBalance()
+```csharp
+string balance = client.GetBalance();
+```
 
 ### 5sim.net
 # Donate
