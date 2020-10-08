@@ -43,6 +43,12 @@ Further work with the library takes place through the `client`.
 string balance = client.GetBalance();
 ```
 # Documentation
+## sms-activate-ru.
+### Methods
+### Available service
+### Available countries
+### Exceptions
+## 5sim.net
 # Donate
 # Reporting Bugs
 # Contacts
