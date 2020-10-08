@@ -39,7 +39,7 @@ In the chapter [Documentation](#Documentation) you will find a description of al
 ### Client initialization:
 
 ```csharp
-SMSActivate client = SMSActivate.InitializeClient("api-key");
+SMSActivateCore client = SMSActivate.InitializeClient("api-key");
 ```
 >`api-key` - required input parameter.  
 
@@ -55,7 +55,7 @@ Homepage service - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
 - **Methods**  
   - Available balance request - **GetBalance()**
     ```csharp
-    SMSActivate client = SMSActivate.InitializeClient("api-key");
+    SMSActivateCore client = SMSActivate.InitializeClient("api-key");
     string balance = client.GetBalance();
     ```
 - **Available countries and services**
@@ -66,12 +66,12 @@ Homepage service - [sms-activate.ru](https://sms-activate.ru/?ref=131777)
   Services serviceName = Services.Telegram
   vat t = client.GetNumberStatus(countryName, Services.Telegram)
   ```
-  > `countryName` - required input parameter.
+  > `countryName` - required input parameter.  
     `serviceName` - required input parameter.
   
   However, this is not the only use case. You can also pass string parameters to the method, in accordance with the accepted on the site:
   ```csharp
-  vat t = client.GetNumberStatus("0", "tg")
+  int numbersCount = client.GetNumberStatus("0", "tg");
   ```
 - **Exceptions**
   - NoBalanceErrorException
