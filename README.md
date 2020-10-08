@@ -44,12 +44,11 @@ string balance = client.GetBalance();
 # Documentation
 
 ### SMS-ACTIVATE.RU
-
-#### Methods
-##### GetBalance()
-```csharp
-string balance = client.GetBalance();
-```
+- Methods  
+  GetBalance()
+  ```csharp
+  string balance = client.GetBalance();
+  ```
 
 ### 5sim.net
 # Donate
